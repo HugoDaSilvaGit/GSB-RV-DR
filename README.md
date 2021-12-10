@@ -18,7 +18,7 @@ cd bd/gsbrv.sql
 
 **Prerequisites**
 
->JDBC jar connector for MariaDB is required on java 8 and must be installed in the modules prerequisities in your IDE; MariaDB provides connector support through the JDBC MariaDB Connector/Java 8 driver, which is available through mariaDB webpage.
+>JDBC jar connector for MariaDB is required on java 8 and must be installed in the modules prerequisities in your IDE. MariaDB provides connector support through the JDBC MariaDB Connector/Java 8 driver, which is available through mariaDB webpage.
 
 >Full download steps can be found here: https://mariadb.com/downloads/connectors/connectors-data-access/java8-connector
 
